@@ -1,0 +1,13 @@
+name: GitHub training workflow template
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run a one-line script
+        run: echo "Hello this is a workflow template. New demo"

@@ -1,5 +1,7 @@
 # :rocket: Workflow syntax
 
+demo-pr-prisa
+
 Demo repository for basic GitHub Actions workflow syntax.
 
 :exclamation: **This is a template repository**
